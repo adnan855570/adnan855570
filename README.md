@@ -1,13 +1,15 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan855570&label=Profile%20views&color=0e75b6&style=flat" alt="adnan855570" /> </p>
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan855570" alt="adnan855570" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adnan855570&label=Profile%20views&color=0e75b6&style=flat" alt="adnan855570" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@adnan855570" target="blank"><img src="https://img.shields.io/twitter/follow/@adnan855570?logo=twitter&style=for-the-badge" alt="@adnan855570" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan855570" alt="adnan855570" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/@adnan855570" target="blank"><img src="https://img.shields.io/twitter/follow/@adnan855570?logo=twitter&style=for-the-badge" alt="@adnan855570" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel,Sass**
 
