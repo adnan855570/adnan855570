@@ -1,9 +1,9 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
 <h3 align="center">A passionate Frontend  Developer from Pakistan who is into coding and loves to work on frontend as well as Backend.
-My future goals are to work on Blockchain Technology as well as Learn Cloud Servies and I'm also passanate about cybersecurity expecially Networking.
-I've been always curious to work on new Technology and learn new Things.
-My goals are to learn new Things each day and help others to form Communities and work in Collaboration with others and build Healthy Learning Environment.</h3>
+My future goals are to work on Blockchain Technology as well as Learn Cloud Servies and I'm also passionate about cybersecurity expecially Networking.
+I've been always curious to work on new Technologies and learn new things.
+My goals are to learn new things each day and help out others to form Communities and work in Collaboration with others and build Healthy Learning Environment.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
