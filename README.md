@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Frontend Developer</h1>
-<h3 align="center">A passionate Frontend  Developer from Pakistan who is into coding and loves to work on frontend as well as Backend.
+<h1 align="center">Hi 👋, I'm Full-Stack Web Developer</h1>
+<h3 align="center">A passionate Full-Stack  Developer from Pakistan who is into coding and loves to work on frontend as well as Backend.
 My future goals are to work on Blockchain Technology as well as Learn Cloud Servies and I'm also passionate about Cybersecurity especially Networking.
 I've been always curious to work on new Technologies and learn new things.
 My goals are to learn new things each day and help out others to form Communities and work in Collaboration with others and build Healthy Learning Environment.</h3>
