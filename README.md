@@ -1,49 +1,135 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Full-Stack Web Developer</h1>
-<h3 align="center">A passionate Full-Stack  Developer from Pakistan who is into coding and loves to work on frontend as well as Backend.
-My future goals are to work on Blockchain Technology as well as Learn Cloud Servies and I'm also passionate about Cybersecurity especially Networking.
-I've been always curious to work on new Technologies and learn new things.
-My goals are to learn new things each day and help out others to form Communities and work in Collaboration with others and build Healthy Learning Environment.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+<h1 align="center">Hi 👋, I'm Adnan Khan</h1>
+<h3 align="center">Full-Stack Engineer | React Native Developer | Next.js Developer | AI Builder</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adnan855570&label=Profile%20views&color=0e75b6&style=flat" alt="adnan855570" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan855570" alt="adnan855570" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/@adnan855570" target="blank"><img src="https://img.shields.io/twitter/follow/@adnan855570?logo=twitter&style=for-the-badge" alt="@adnan855570" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel,Sass**
-
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,PHP,LARAVEL,SASS,BOOTSTRAP,TAILWIND,WORDPRESS**
-
-- 📫 How to reach me **adnan855570@gmail.com**
-
-- ⚡ Fun fact **I Think I am kind of Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@adnan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adnan855570" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adnan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan khan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad adnan mushtaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad adnan mushtaq" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad adnan mushtaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad adnan mushtaq" height="30" width="40" /></a>
-<a href="https://instagram.com/adnankhan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adnankhan855570" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/muhammadadnan100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/muhammadadnan100" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@adnan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@adnan855570" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adnan855570" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adnan855570" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adnan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnan855570" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/adnan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adnan855570" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adnankhan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adnankhan855570" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@muhammad1118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@muhammad1118" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adnan855570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adnan855570" height="30" width="40" /></a>
+<p align="center">
+  I build modern mobile apps, scalable web platforms, and AI-powered products.
+  My work spans <strong>React Native</strong>, <strong>Next.js</strong>, <strong>frontend + backend development</strong>,
+  and <strong>machine learning / deep learning / LLM / NLP / computer vision systems</strong>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan855570&show_icons=true&locale=en&layout=compact" alt="adnan855570" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan855570&show_icons=true&locale=en" alt="adnan855570" /></p>
+I'm a developer focused on building products that are not just functional, but actually useful in the real world.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan855570&" alt="adnan855570" /></p>
+I work across:
+
+- **React Native mobile application development**
+- **Next.js web development**
+- **Front-end and back-end engineering**
+- **AI-based systems**, including:
+  - Machine Learning
+  - Deep Learning
+  - LLM-based agentic AI
+  - NLP
+  - Computer Vision
+
+I enjoy working on products end-to-end — from UI and APIs to model integration and deployment.
+
+---
+
+## 💡 What I Build
+
+### 📱 Mobile Applications
+- Cross-platform mobile apps with **React Native**
+- Clean UI, API integration, authentication, real-time features
+- Production-focused mobile architecture
+
+### 🌐 Web Applications
+- Fast, modern websites and web apps using **Next.js**
+- Responsive frontends with solid UX
+- Backend APIs, dashboards, admin panels, and full-stack workflows
+
+### 🤖 AI-Powered Products
+- LLM-based assistants and agentic workflows
+- NLP pipelines and intelligent automation
+- Computer vision applications
+- ML / deep learning model training and deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=83CD29)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1F17?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172554?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0B1120?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-1F2937?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2937?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenAI](https://img.shields.io/badge/LLM%20Apps-Agentic%20AI-black?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0F172A?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge)
+
+---
+
+## 🎯 Current Focus
+
+- Building high-quality **mobile and web applications**
+- Developing **AI-powered SaaS products**
+- Creating **agentic AI systems** with LLMs
+- Exploring better ways to combine **full-stack engineering + AI**
+
+---
+
+## 📌 Featured Areas
+
+- Full-Stack Development
+- React Native App Development
+- Next.js Development
+- REST APIs & Backend Systems
+- AI Integrations
+- Machine Learning Pipelines
+- Deep Learning Solutions
+- NLP Applications
+- Computer Vision Projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan855570&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan855570&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan855570&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: **adnan855570@gmail.com**
+- 💬 Open to collaborating on **mobile apps, web apps, and AI products**
+- 🌍 Based in Pakistan
+
+---
+
+## ⚡ Final Note
+
+I like building things that solve real problems.
+
+Whether it's a mobile app, a full-stack platform, or an AI-powered system, I aim to create products that are clean, scalable, and impactful.
